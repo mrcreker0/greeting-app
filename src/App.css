@@ -1,0 +1,94 @@
+/* Общие стили */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fffaf0;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Стили шапки */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* Контейнер для карточек */
+.greeting {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+/* Стили карточек */
+.card {
+  flex: 1 1 45%;
+  box-sizing: border-box;
+  margin: 10px;
+  max-width: 45%;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Стили для изображений */
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Стили заголовков и текста */
+.card h2 {
+  margin-top: 0;
+  color: #d23669;
+}
+
+.card p {
+  line-height: 1.6;
+}
+
+/* Стили для кнопок */
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #d23669;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+button:hover {
+  background-color: #a02050;
+}
+
+/* Адаптивное поведение: на узких экранах карточки располагаются в колонку */
+@media (max-width: 768px) {
+  .card {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
