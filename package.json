@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-  "build": "set PUBLIC_URL=https://mrcreker.github.io/present1 && react-scripts build",
+  "build": "set PUBLIC_URL=https://mrcreker.github.io/greeting-app && react-scripts build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 },
