@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/present1/static/css/main.57a2eabe.css",
+    "main.js": "/present1/static/js/main.9069678a.js",
+    "static/js/453.6005877e.chunk.js": "/present1/static/js/453.6005877e.chunk.js",
+    "static/media/both6.jpg": "/present1/static/media/both6.ed0a6fe7de4d2583a57a.jpg",
+    "static/media/both4.jpg": "/present1/static/media/both4.0f836dbf099193a4c901.jpg",
+    "static/media/mom1.jpg": "/present1/static/media/mom1.6c48b6f69c908f7c156a.jpg",
+    "static/media/sis.jpg": "/present1/static/media/sis.bc92b347356156195f37.jpg",
+    "static/media/sis2.jpg": "/present1/static/media/sis2.08a3872a5696f4de8566.jpg",
+    "static/media/mom6.jpg": "/present1/static/media/mom6.f3cda65ebd82afd73f39.jpg",
+    "static/media/both3.jpg": "/present1/static/media/both3.5e62f01fcc6e3bfcdaeb.jpg",
+    "static/media/both.jpg": "/present1/static/media/both.a45f4791bf5a67692df5.jpg",
+    "static/media/mom.jpg": "/present1/static/media/mom.8d16f1bdb702c63bfb75.jpg",
+    "static/media/both1.jpg": "/present1/static/media/both1.b21b00d8c9447114e631.jpg",
+    "static/media/sis1.jpg": "/present1/static/media/sis1.9cf5ff9c46d42921ec40.jpg",
+    "static/media/mom2.jpg": "/present1/static/media/mom2.4380b0c826e929d42f74.jpg",
+    "static/media/sis3.jpg": "/present1/static/media/sis3.419d3aca2ebd8160c21c.jpg",
+    "static/media/mom3.jpg": "/present1/static/media/mom3.9a805836bca26a10d75c.jpg",
+    "static/media/sis4.jpg": "/present1/static/media/sis4.1dca1b47712232980d22.jpg",
+    "static/media/both2.jpg": "/present1/static/media/both2.7817b24d8925dacedfc8.jpg",
+    "static/media/both5.jpg": "/present1/static/media/both5.dde4921c9072dcf00787.jpg",
+    "static/media/mom5.jpg": "/present1/static/media/mom5.51b6ffae8b192b1d0c38.jpg",
+    "static/media/both7.jpg": "/present1/static/media/both7.3757b27995d96070c9bb.jpg",
+    "static/media/sis5.jpg": "/present1/static/media/sis5.c3511e7ade86bacce0cc.jpg",
+    "static/media/mom4.jpg": "/present1/static/media/mom4.c27920703589b830fd89.jpg",
+    "index.html": "/present1/index.html",
+    "main.57a2eabe.css.map": "/present1/static/css/main.57a2eabe.css.map",
+    "main.9069678a.js.map": "/present1/static/js/main.9069678a.js.map",
+    "453.6005877e.chunk.js.map": "/present1/static/js/453.6005877e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a2eabe.css",
+    "static/js/main.9069678a.js"
+  ]
+}
